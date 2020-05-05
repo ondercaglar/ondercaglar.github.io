@@ -20,7 +20,7 @@ My published applications in "Google Play Store" and in "App Store" can be acces
 
 
 <a href="https://apps.apple.com/us/developer/onder-caglar/id1450941348">
-  <img src="https://ondercaglar.github.io/iosicon.png" alt="App Store" style="width:42px;height:42px;border:0;">
+  <img src="https://ondercaglar.github.io/iosicon.png" alt="App Store";">
 </a>
 
 
