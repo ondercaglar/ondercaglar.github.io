@@ -2,9 +2,6 @@
 ![All Together](https://ondercaglar.github.io/webpageicon.png)
 
 
-<h1> Developer Page of ONDER CAGLAR </h1>
-
-
 Personally, developing Android and iOS applications. As of the moment, 
 
 * 19 published applications in "Google Play Store" (1 of them has downloaded over 1 million and 1 of them has downloaded over 500 thousand)
@@ -32,5 +29,5 @@ If you have any questions, you can write email to ondercaglar@gmail.com
 # Follow Me on Linkedin
 
 <a href="https://www.linkedin.com/in/onder-caglar">
-  <img src="https://ondercaglar.github.io/linkedinicon.png" alt="Linkedin" style="width:271px;height:240px;border:0;">
+  <img src="https://ondercaglar.github.io/linkedinicon.png" alt="Linkedin" style="width:135px;height:120px;border:0;">
 </a>
