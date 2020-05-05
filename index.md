@@ -20,7 +20,7 @@ My published applications in "Google Play Store" and in "App Store" can be acces
 
 
 <a href="https://apps.apple.com/us/developer/onder-caglar/id1450941348">
-  <img src="https://ondercaglar.github.io/iosicon.png" alt="App Store";">
+  <img src="https://ondercaglar.github.io/iosicon.png" alt="App Store" style="width:300px;height:83px;border:0;">
 </a>
 
 
@@ -32,5 +32,5 @@ If you have any questions, you can write email to ondercaglar@gmail.com
 # Follow Me on Linkedin
 
 <a href="https://www.linkedin.com/in/onder-caglar">
-  <img src="https://ondercaglar.github.io/linkedinicon.png" alt="Linkedin" style="width:42px;height:42px;border:0;">
+  <img src="https://ondercaglar.github.io/linkedinicon.png" alt="Linkedin" style="width:271px;height:240px;border:0;">
 </a>
