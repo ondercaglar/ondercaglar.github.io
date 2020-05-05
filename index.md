@@ -15,7 +15,7 @@ Personally, developing Android and iOS applications. As of the moment,
 My published applications in "Google Play Store" and in "App Store" can be accessed from the links below.
 
 <a href="https://play.google.com/store/apps/developer?id=Önder+Çağlar">
-  <img src="https://ondercaglar.github.io/androidicon.png" alt="Google Play Store" style="width:42px;height:42px;border:0;">
+  <img src="https://ondercaglar.github.io/androidicon.png" alt="Google Play Store" style="width:300px;height:83px;border:0;">
 </a>
 
 
