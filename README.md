@@ -1,8 +1,5 @@
 
-![All Together](https://github.com/ondercaglar/mobile.apps/blob/master/webpageicon.png)
-
-
-<h1> Developer Page of ONDER CAGLAR </h1>
+![All Together](https://ondercaglar.github.io/webpageicon.png)
 
 
 Personally, developing Android and iOS applications. As of the moment, 
@@ -15,12 +12,12 @@ Personally, developing Android and iOS applications. As of the moment,
 My published applications in "Google Play Store" and in "App Store" can be accessed from the links below.
 
 <a href="https://play.google.com/store/apps/developer?id=Önder+Çağlar">
-  <img src="https://github.com/ondercaglar/mobile.apps/blob/master/androidicon.png" alt="Google Play Store" style="width:42px;height:42px;border:0;">
+  <img src="https://ondercaglar.github.io/androidicon.png" alt="Google Play Store" style="width:300px;height:83px;border:0;">
 </a>
 
 
 <a href="https://apps.apple.com/us/developer/onder-caglar/id1450941348">
-  <img src="https://github.com/ondercaglar/mobile.apps/blob/master/iosicon.png" alt="App Store" style="width:42px;height:42px;border:0;">
+  <img src="https://ondercaglar.github.io/iosicon.png" alt="App Store" style="width:300px;height:83px;border:0;">
 </a>
 
 
@@ -32,5 +29,5 @@ If you have any questions, you can write email to ondercaglar@gmail.com
 # Follow Me on Linkedin
 
 <a href="https://www.linkedin.com/in/onder-caglar">
-  <img src="https://github.com/ondercaglar/mobile.apps/blob/master/linkedinicon.png" alt="Linkedin" style="width:42px;height:42px;border:0;">
+  <img src="https://ondercaglar.github.io/linkedinicon.png" alt="Linkedin" style="width:135px;height:120px;border:0;">
 </a>
