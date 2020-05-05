@@ -1,5 +1,5 @@
 
-![All Together](https://github.com/ondercaglar/mobile.apps/blob/master/webpageicon.png)
+![All Together](https://ondercaglar.github.io/webpageicon.png)
 
 
 <h1> Developer Page of ONDER CAGLAR </h1>
